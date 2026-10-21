@@ -37,10 +37,6 @@ public class FullNameParser {
         System.out.println("First name: " + firstName);
         System.out.println("Middle name: " + middleName);
         System.out.println("Last name: " + lastName);
-
-
-
-
     }
 
 }
